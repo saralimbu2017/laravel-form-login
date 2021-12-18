@@ -14,7 +14,14 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+
+    if(Auth::check()) {
+        //return view('welcome');
+        return "the user is logged in";
+    }
+
+    //Auth::logout();
+    
 });
 
 Auth::routes();
