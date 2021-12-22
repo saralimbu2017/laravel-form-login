@@ -1,3 +1,38 @@
+<div id="top"></div>
+<!--
+*** It is a Laravel web application.
+-->
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+<div align="center">
+    <h1> Login-form</h1>
+    <h5>ABOUT THE PROJECT</h2>
+    <a href="https://github.com/saralimbu2017/laravel-form-login">
+    </a>
+ </div>
+ 
+ <div>
+    <p text-align="justify">
+        Laravel-form-login is a demonstation of building application's login form with inbuilt authentication feature.
+     </br>
+    </p>
+</div>
+
+<!--Technologies Used-->
+## BUILT WITH
+- Laravel 8.76.2
+- PHP
+- CSS
+- HTML
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
