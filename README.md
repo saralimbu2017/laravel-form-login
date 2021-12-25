@@ -14,6 +14,39 @@
 <div align="center">
     <h1> Login-form</h1>
     <h5>ABOUT THE PROJECT</h2>
+ </div>
+ 
+ <div>
+    <p text-align="justify">
+        Login-form is a Laravel authentication application.  It defines how users are authenticated for each request using the inbuilt Auth feature. 
+        <br/>
+        A user has to be registered first then access into the system using the login form.
+    </p>
+</div>
+
+<!--Technologies Used-->
+## BUILT WITH
+- Laravel 8.75.0
+- PHP
+- CSS
+- HTML
+<p align="right">(<a href="#top">back to top</a>)</p>
+<div id="top"></div>
+<!--
+*** It is a Laravel web application.
+-->
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+<div align="center">
+    <h1> Login-form</h1>
+    <h5>ABOUT THE PROJECT</h2>
     <a href="https://github.com/saralimbu2017/laravel-form-login">
     </a>
  </div>
